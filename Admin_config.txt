@@ -1,0 +1,2 @@
+admin_password=SAMI
+global_duration=999999999
